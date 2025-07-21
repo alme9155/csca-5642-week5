@@ -1,1 +1,1 @@
-# csca-5642-week5
+# CSCA-5632 GAN Picture Generation Project
