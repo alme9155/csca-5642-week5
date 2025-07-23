@@ -8,7 +8,7 @@ Below is the directory structure of the project:
   ├── data/<br>
   │    ├── monet_jpg.zip<br>
   │    └── sample_photo_jpg.zip<br>
-  ├── output/<be>
+  ├── output/<br>
   │    └── images.zip<br>
   └── CycleGAN-Monet-Art-Generation.ipynb<br>
 
