@@ -6,10 +6,10 @@ This project implements a CycleGAN to transform photographs into Monet-style pai
 Below is the directory structure of the project:
 
   ├── data/<br>
-  │  ├── monet_jpg.zip<br>
-  │  └── sample_photo_jpg.zip<br>
-  ├── output/<be
-  │  └── images.zip<br>
+  │    ├── monet_jpg.zip<br>
+  │    └── sample_photo_jpg.zip<br>
+  ├── output/<be>
+  │    └── images.zip<br>
   └── monet-Style-CycleGAN-Generator.ipynb<br>
 
 
