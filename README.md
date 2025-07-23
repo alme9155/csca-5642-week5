@@ -10,14 +10,14 @@ Below is the directory structure of the project:
   │    └── sample_photo_jpg.zip<br>
   ├── output/<be>
   │    └── images.zip<br>
-  └── monet-Style-CycleGAN-Generator.ipynb<br>
+  └── CycleGAN-Monet-Art-Generation.ipynb<br>
 
 
 ## Files
 - data/monet_jpg.zip: Input monet painting in jpg format.
 - data/sample_photo_jpg.zip: Input photo to be used for painting generation.
 - output/images.zip: Zip file containing 7000 images generated
-- monet-Style-CycleGAN-Generator.ipynb: The main Jupyter Notebook containing the CycleGAN code. 
+- CycleGAN-Monet-Art-Generation.ipynb: The main Jupyter Notebook containing the CycleGAN code. 
 
 ## Author
 - **Author**: Alexander Meau
